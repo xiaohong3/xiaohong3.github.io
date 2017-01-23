@@ -8,6 +8,8 @@ categories: finnish
 > (tosiaankin hyvin päättäväisesti!):
 > "Luotan sinuun, vie minne vietkin", elämä on salaperäisellä tavalla vastannut tarpeisiini.
 
+## Vocabulary
+
 |**kokenut**| experienced; seasoned {{page.adjective}}, in this sentence, this means I have experienced|
 |**yhä**| still {{page.adverb}}|
 |**uudestaan**| again {{page.adverb}}|
@@ -26,6 +28,13 @@ categories: finnish
 |**vastannut**| answered, responded|
 |**tarve**| need {{page.noun}}|
 |**tarpeisiini**| to my needs|
+
+## Translation
+
+I have experienced again and again, that after I have said to life calmly and determinedly,
+(indeed very determinedly): "I trust you, to take me wherever you are taking me to", life 
+responded to my request in a mysterious way.
+
 
 
 
